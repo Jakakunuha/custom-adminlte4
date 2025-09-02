@@ -17,11 +17,10 @@
     </div>
     <!--end::Sidebar Brand-->
     <!--begin::Sidebar Wrapper-->
-    <div class="sidebar-wrapper">
-        <nav class="mt-2">
+    <div class="sidebar-wrapper" style="overflow-y: hidden;">
+        <nav class="mt-2 h-100">
             <!--begin::Sidebar Menu-->
-            <ul
-                class="nav sidebar-menu flex-column"
+            <ul class="nav sidebar-menu flex-column h-100"
                 data-lte-toggle="treeview"
                 role="menu"
                 data-accordion="false">
@@ -34,7 +33,7 @@
                         </p>
                     </a>
                 </li>
-                
+
                 <li class="nav-item">
                     <a href="mahasiswa.php" class="nav-link">
                         <i class="nav-icon bi bi-backpack4"></i>
@@ -43,6 +42,16 @@
                         </p>
                     </a>
                 </li>
+
+                <li class="nav-item mt-auto">
+                    <a href="logout.php" class="nav-link">
+                        <i class="nav-icon bi bi-box-arrow-right"></i>
+                        <p>
+                            Logout
+                        </p>
+                    </a>
+                </li>
+
 
             </ul>
             <!--end::Sidebar Menu-->

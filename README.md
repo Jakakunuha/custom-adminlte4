@@ -10,11 +10,9 @@
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
 ## example project custom adminlte 4
+<img width="960" height="439" alt="Screenshot_73" src="https://github.com/user-attachments/assets/ecab1189-3063-49d3-b005-893c03282267" />
 
-<img width="1920" height="879" alt="screencapture-localhost-App-AdminLTE4-Frond-End-dist-pages-index-php-2025-08-22-23_50_34" src="https://github.com/user-attachments/assets/902ef833-3899-4ef4-b456-4682e29b318e" />
-
-
-<img width="1920" height="1294" alt="screencapture-localhost-App-AdminLTE4-Frond-End-dist-pages-mahasiswa-php-2025-08-22-23_50_16" src="https://github.com/user-attachments/assets/76426816-7a6c-4eb0-933a-849b62a5c866" />
+<img width="1920" height="1294" alt="screencapture-localhost-App-AdminLTE4-Frond-End-dist-pages-mahasiswa-php-2025-09-02-15_23_21" src="https://github.com/user-attachments/assets/18305604-ff65-4c0d-adcb-530397a8a7f8" />
 
 ## Looking for Premium Templates?
 AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
